@@ -27,7 +27,7 @@ A curated list of helpful design and development resources for inspiration, tool
 ## 🚀 Web Development Tools
 - [Fronty](https://fronty.com) – AI-powered tool to convert images to HTML/CSS.  
 - [Viewport UI](https://viewport-ui.design) – Pre-built UI components and templates.  
-- [Connected Archives](https://connected-archives) – Platform for connecting archives.  
+- [Connected Archives](https://connected-archives.com) – Platform for connecting archives.  
 - [Beta Archive PDF](https://beta.archivepdf.net) – PDF archiving and access platform.  
 
 ---
